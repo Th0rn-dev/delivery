@@ -8,14 +8,14 @@
         <version>3.5.10-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>microarch</groupId>
     <artifactId>delivery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Delivery Service</name>
     <description>Microservice for managing delivery</description>
 
     <properties>
-        <java.version>19</java.version>
+        <java.version>21</java.version>
     </properties>
     <dependencies>
         <dependency>
